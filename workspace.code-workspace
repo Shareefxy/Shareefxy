@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop",
+		"java.project.sourcePaths": [],
+		"liveServer.settings.port": 5501
+	}
+}
